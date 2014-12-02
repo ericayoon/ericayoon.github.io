@@ -1,0 +1,174 @@
+/* All Pages */
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.frame {
+	width:100%;
+	height:100%;
+	display: inline-block;
+	background-color: #FFFFCC;
+}
+
+.icon1 img {
+    border-radius: 100px;
+    width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	border-left: 20%;
+	display: inline-block;
+	float: left;
+	margin-left: 15%;
+	margin-top: 1%;
+	}
+
+.header {
+	font-size: 30px;
+	float: left;
+	font-family: 'Pacifico', cursive;
+	margin-top: 3%;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.box {
+	width: 55%;
+	height: 75%;
+	background-color: white;
+	color: #33CCFF;
+	margin-top: 10%;
+	margin-left: 20%;
+}
+
+
+/* First Page */
+
+.frame1 {
+	width:100%;
+	height:100%;
+	display: inline-block;
+	background-color: #E0E0E0;
+	margin: 0px;
+	border-bottom: inset;
+}
+
+.box1 {
+	width: 55%;
+	height: 70%;
+	background-color: white;
+	margin-top: 10%;
+	margin-left: 20%;
+	color: #33CCFF;
+}
+
+#backgroundpicture img {
+	width:100%;
+	height: 100%;
+}
+
+
+/* Second Page */
+
+.frame2 {
+	width:100%;
+	height:100%;
+	display: block;
+	background-color: #E0E0E0;
+	display: inline-block;
+	border-bottom: inset;
+}
+
+.icon2 img {
+    border-radius: 100px;
+    width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	border-left: 20%;
+	float: left;
+	margin-left: 15%;
+	margin-top: 1%;
+	}
+
+.boxcategory {
+	width: 80%;
+	display: inline-block;
+	margin: 5%;
+}
+
+.box2 {
+	width: 60%;
+	height: 40%;
+	background-color: white;
+	margin-top: 10%;
+	margin-left: 20%;
+	color: #33CCFF;
+}
+
+.category {
+	width: 27%;
+	display: inline-block;
+}
+
+
+
+/* Third Page View, Personal Growth */
+
+.frame3 {
+	width:100%;
+	height:100%;
+	display: inline-block;
+	background-color: #E0E0E0;
+}
+
+.icon3 img {
+    border-radius: 100px;
+    width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	border-left: 20%;
+	display: inline-block;
+	float: left;
+	margin-left: 15%;
+	margin-top: 1%;
+	}
+
+#container {
+	width: 960px; 
+	margin: 0px auto; 
+	padding: 30px 0px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+#link {
+	margin-bottom: 10px;
+	padding: 15px;
+	font-size: 14px;
+	font-weight: 300;
+	font-style: 'Ubuntu', sans-serif;
+	background-color: lightblue;
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.list-container {
+	display: inline-block;
+	float: left;
+	width: 22%;
+}
+
+.list-item {
+	width: 22%;
+}
+
+
